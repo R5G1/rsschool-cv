@@ -1,1 +1,26 @@
-
+<!doctype html>
+<html lang="en">
+    <head>
+    <meta name="viewport" content="width=1024, initial-scale=1.0, user-scalable=no">
+    </head>
+       <body>
+         <div>
+         <pre> 
+              <h2>   personal data</h2>
+     Name:                          Vlad Klimachevski
+     Comtacts for communcation      vlad.klimachevski@gmail.com
+     Information
+      </pre>
+         </div>
+         <img src="https://i.ibb.co/z2wYrYj/11869.jpg" alt="11869" border="0" width="300" height="200">
+         <ul>
+             <li><h4>qualities:</h4></li>
+             <p>Honesty, decency, persisten.</p>
+             <p>great desire and ability to learn and learn new things</p>
+             <li><h4>Skills</h4></li> 
+             <p>HTML, CSS, JavaScript, entry level</p>
+             <li><h4>English</h4></li>
+             <p>A1</p>
+         </ul>
+       </body>
+</html>
